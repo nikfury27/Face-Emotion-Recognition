@@ -107,7 +107,7 @@ We would like to thank the following resources and individuals for their contrib
 - **TensorFlow/Keras Community**: For developing and maintaining excellent machine learning libraries.
 - **OpenCV Contributors**: For their work on computer vision tools and documentation.
 - **Online Tutorials and Forums**: For providing invaluable guidance and troubleshooting tips during development.
-- **Mentor**: I would like to extend my deepest gratitude to <a href="https://github.com/Victor-Ikechukwu">Dr. Victor A.I</a>, professor at Maharaja institure of technology Mysore, for his invaluable guidance and support throught the course of this project.
+- **Mentor**: I would like to extend my deepest gratitude to <a href="https://github.com/Victor-Ikechukwu">Dr. Victor A.I</a> , professor at Maharaja institure of technology Mysore, for his invaluable guidance and support throught the course of this project.
 - **Collaborators**: Thanks to <a href="https://github.com/Mayurx75">Mayur</a> , <a href="https://github.com/km1000101">Kishan</a> and <a href="https://github.com/SrujanVN"> Srujan</a> the development of this project and its documentation.
 
 Special thanks to all open-source contributors and developers whose tools and libraries made this project possible.
