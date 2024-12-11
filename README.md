@@ -17,8 +17,8 @@ This is a Facial Emotion Recognition app built using Convolutional Neural Networ
 1. Clone the repository or download the code:
 
     ```bash
-    git clone https://github.com/yourusername/facial-emotion-recognition.git
-    cd facial-emotion-recognition
+    git clone https://github.com/nikfury27/Facial-Emotion-Recognition.git
+    cd Facial-Emotion-Recognition
     ```
 
 2. Install the required dependencies using `pip`:
@@ -69,10 +69,10 @@ python test.py
 
 ### 3. Using the Pre-trained Model
 
-If you have already trained the model, or have a pre-trained model (e.g., `emotion_model.h5`), you can skip the training step and use the following command to recognize emotions:
+If you have already trained the model, or have a pre-trained model (e.g., `model_file_improved.h5`), you can skip the training step and use the following command to recognize emotions:
 
 ```bash
-python recognize_emotion.py
+python test.py
 ```
 
 The model will use the pre-trained weights and detect emotions from the input.
