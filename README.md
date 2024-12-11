@@ -81,7 +81,7 @@ The model will use the pre-trained weights and detect emotions from the input.
 
 - `main.py`: This script trains the CNN model on the FER-2013 dataset.
 - `test.py`: This script runs the app to detect emotions from an image or live video feed.
-- `emotion_model.h5`: The pre-trained model file (generated after training).
+- `model_file_improved.h5`: The pre-trained model file (generated after training).
 
 ## Example Usage
 
